@@ -202,6 +202,7 @@ class Instructor<C> {
           ...data,
           _meta: {
             usage: completion?.usage ?? undefined,
+            model: completion?.model ?? undefined,
             thinking: parsedCompletion?.thinking ?? undefined
           }
         }
