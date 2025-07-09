@@ -29,7 +29,7 @@ pnpm add @instructor-ai/instructor zod openai
 ```
 
 ## Basic Usage
-To check out all the tips and tricks to prompt and extract data, check out the [documentation](https://instructor-ai.github.io/instructor-js/tips/prompting/).
+To check out all the tips and tricks to prompt and extract data, check out the [documentation](https://js.useinstructor.com/tips/prompting/).
 
 
 ```typescript
